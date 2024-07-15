@@ -12,8 +12,8 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Dmitriy3737/Avito.git
+    cd Avito
     ```
 
 2. Запустите сервис с использованием Docker Compose:
